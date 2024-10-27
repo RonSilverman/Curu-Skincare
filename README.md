@@ -4,7 +4,7 @@
 
 # The project was conceptualised and developed using industry standard tools in the following computational environment:
 
-##Programming Language: Python 3.12
+## Programming Language: Python 3.12
 
 ## Libraries and Tools: Selenium, TextBlob, Langchain, Streamlit, Pymongo (for MongoDB integration), JSON.
 
